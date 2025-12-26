@@ -1,78 +1,82 @@
-<h2 align="left">Hi 👋! I'm Aditya, a Web Developer from India</h2>
+<h1 align="center">Hi 👋, I'm Aditya</h1>
+<h3 align="center">Full Stack Developer | DSA Enthusiast | Open Source Contributor</h3>
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=435&lines=MERN+Stack+Specialist;Django+%26+Python+Developer;Java+DSA+Problem+Solver;Building+Scalable+Web+Apps" alt="Typing SVG" />
+</p>
 
-<p align="left">🚀 Passionate about web development and always excited to build and grow.</p>
+---
 
-<ul align="left">
-  <li>🌱 Currently learning Backend Development with Node.js</li>
-  <li>🎯 Completed Frontend Development (HTML, CSS, JavaScript, React)</li>
-  <li>🧠 Exploring Data Structures and Algorithms with Java</li>
-  <li>🔥 Diving into the MERN Stack and understanding how full-stack projects work</li>
-  <li>💡 Always building projects and improving step by step</li>
-  <li>📘 Sharing my journey, experiences, and code with the dev community</li>
-</ul>
+### 🚀 About Me
 
-###
+- 💻 **Full Stack:** Experienced in building end-to-end applications using MERN and Django.
+- 🎨 **Frontend:** Passionate about creating responsive UIs with React, Tailwind, and Bootstrap.
+- 🧠 **Problem Solving:** Actively solving Data Structures & Algorithms (DSA) in Java.
+- ⚡ **Goal:** Building efficient, user-centric web solutions.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityawarekar&show_icons=true&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adityawarekar&locale=en&layout=compact&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
-</div>
+---
 
-###
+### 🛠️ Tech Stack
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="coding gif" />
-
-###
-
-<h3 align="left">Languages and Tools:</h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="30" alt="nodejs logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="30" alt="express logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="30" alt="mongodb logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
-</div>
-
-###
-
-<h3 align="left">Connect with me:</h3>
-
-<div align="left">
-  <a href="https://linkedin.com/in/adityawarekar/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+**Frontend Development**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind&perline=6" />
   </a>
-</div>
+</p>
 
-###
+**Backend & Database**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,py,django,mongodb,postman&perline=6" />
+  </a>
+</p>
+
+**Languages & Tools**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,git,github,vscode&perline=4" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Insights
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adityawarekar&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adityawarekar&locale=en&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" height="150" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityawarekar&theme=dracula&hide_border=true&background=0D1117" alt="Streak Stats" />
+</div>
+
+---
+
+### 🏆 Achievements
+
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=adityawarekar&theme=dracula&no-frame=false&margin-w=15" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=adityawarekar&theme=dracula&no-frame=true&margin-w=15" alt="GitHub Trophies" />
   </a>
-</div>
+</p>
 
-###
+---
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityawarekar&theme=dracula" alt="Streak Stats" />
-</div>
+### 📫 Let's Connect!
 
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=adityawarekar&label=Profile%20views&color=0e75b6&style=flat" alt="adityawarekar" />
-</div>
-
-###
+<p align="left">
+<a href="https://linkedin.com/in/adityawarekar/" target="blank">
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="adityawarekar" />
+</a>
+<a href="mailto:your-email@example.com" target="blank">
+  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+</a>
+</p>
 
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
-###
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=adityawarekar&label=Profile%20views&color=0e75b6&style=flat" alt="adityawarekar" />
+</p>
